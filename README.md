@@ -10,4 +10,4 @@ Você precisa ter o Python e o MySQL instalados na sua máquina.
 ### 2. Instalar as bibliotecas
 Abra o terminal na pasta do projeto e instale as dependências:
 ```bash
-pip install flet mysql-connector-python python-dotenv
+pip install flet==0.22.0 mysql-connector-python python-dotenv
